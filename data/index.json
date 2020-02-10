@@ -1,0 +1,464 @@
+{
+    "sideNav": [
+        {
+            "title": "热门游戏",
+            "child": [
+                {
+                    "title": "剑灵"
+                },
+                {
+                    "title": "穿越火线"
+                },
+                {
+                    "title": "CODOL使命召唤Online"
+                },
+                {
+                    "title": "地下城与勇士"
+                },
+                {
+                    "title": "FIFA OL3"
+                },
+                {
+                    "title": "FIFA OL4"
+                },
+                {
+                    "title": "火影忍者Online"
+                },
+                {
+                    "title": "英雄联盟"
+                },
+                {
+                    "title": "冒险岛2"
+                },
+                {
+                    "title": "NBA2KOL"
+                },
+                {
+                    "title": "NBA2KOL2"
+                },
+                {
+                    "title": "逆战"
+                },
+                {
+                    "title": "QQ三国"
+                },
+                {
+                    "title": "飞车"
+                },
+                {
+                    "title": "天涯明月刀"
+                },
+                {
+                    "title": "炫舞"
+                },
+                {
+                    "title": "御龙在天"
+                }
+            ]
+        },
+        {
+            "title": "角色扮演",
+            "child": [
+                {
+                    "title": "上古世纪"
+                },
+                {
+                    "title": "剑灵"
+                },
+                {
+                    "title": "刀剑2"
+                },
+                {
+                    "title": "地下城与勇士"
+                },
+                {
+                    "title": "斗战神"
+                },
+                {
+                    "title": "自由幻想"
+                },
+                {
+                    "title": "QQ幻想"
+                },
+                {
+                    "title": "幻想世界"
+                },
+                {
+                    "title": "疾风之刃"
+                },
+                {
+                    "title": "冒险岛2"
+                },
+                {
+                    "title": "QQ三国"
+                },
+                {
+                    "title": "天堂"
+                },
+                {
+                    "title": "天堂2"
+                },
+                {
+                    "title": "天涯明月刀"
+                },
+                {
+                    "title": "仙侠传"
+                },
+                {
+                    "title": "轩辕"
+                },
+                {
+                    "title": "御龙在天"
+                },
+                {
+                    "title": "御龙在天经典版"
+                }
+            ]
+        },
+        {
+            "title": "竞技游戏",
+            "child": [
+                {
+                    "title": "穿越火线"
+                },
+                {
+                    "title": "CODOL使命召唤Online"
+                },
+                {
+                    "title": "FIFA OL3"
+                },
+                {
+                    "title": "FIFA OL4"
+                },
+                {
+                    "title": "英雄联盟"
+                },
+                {
+                    "title": "NBA2KOL"
+                },
+                {
+                    "title": "NBA2KOL2"
+                },
+                {
+                    "title": "极品飞车OL"
+                },
+                {
+                    "title": "逆战"
+                },
+                {
+                    "title": "枪神纪"
+                },
+                {
+                    "title": "战争雷霆"
+                }
+            ]
+        },
+        {
+            "title": "休闲游戏",
+            "child": [
+                {
+                    "title": "飞车"
+                },
+                {
+                    "title": "炫舞"
+                },
+                {
+                    "title": "炫舞时代"
+                }
+            ]
+        },
+        {
+            "title": "网页游戏",
+            "child": [
+                {
+                    "title": "部落守卫战(网页版)"
+                },
+                {
+                    "title": "捕鱼达人3D"
+                },
+                {
+                    "title": "英魂之刃"
+                },
+                {
+                    "title": "宠物大乐斗"
+                },
+                {
+                    "title": "火影忍者Online"
+                },
+                {
+                    "title": "烽火战国"
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "title": "精彩活动",
+            "child": [
+                {
+                    "images": "images/20200201124221_312152.jpg"
+                },
+                {
+                    "images": "images/20200201124405_342565.jpg"
+                },
+                {
+                    "images": "images/20200201124539_878160.jpg"
+                },
+                {
+                    "images": "images/20200115170255_937190.jpg"
+                },
+                {
+                    "images": "images/20200206122155_894309.jpg"
+                },
+                {
+                    "images": "images/20200201130522_436230.jpg"
+                }
+            ]
+        },
+        {
+            "title": "底部图片",
+            "child": [
+                {
+                    "images": "images/20170728172416_963637.jpg"
+                },
+                {
+                    "images": "images/20151216151026_325230.jpg"
+                },
+                {
+                    "images": "images/20160226162551_787265.jpg"
+                }
+            ]
+        }
+    ],
+    "hot_sale": [
+        {
+            "title": "热卖商品",
+            "child": [
+                {
+                    "id": 1,
+                    "name": "第六系列小小英雄远方之友蛋",
+                    "QB": 23,
+                    "WeChat": 22.31,
+                    "images": "images/pkg-21542.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "5个第六系列小小英雄远方之友蛋",
+                    "QB": 115,
+                    "WeChat": 111.55,
+                    "images": "images/pkg-21543.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "11个第六系列小小英雄远方之友蛋",
+                    "QB": 230,
+                    "WeChat": 223.1,
+                    "images": "images/pkg-21544.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "欧米伽小队 鬼影蛙人",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-105010-9.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "欧米伽小队 天雷爆破手",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-45009-9.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "欧米伽小队 魔鬼伞兵",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-18012-9.jpg"
+                }
+            ]
+        }
+    ],
+    "guess_love": [
+        {
+            "title": "猜你喜欢",
+            "child": [
+                {
+                    "id": 1,
+                    "name": "沙之守护 雷恩加尔 绿洲守护神",
+                    "QB": 20,
+                    "WeChat": 19.4,
+                    "images": "images/2-107027-9.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "未来战士 凯特琳",
+                    "QB": 99,
+                    "WeChat": 96.03,
+                    "images": "images/pkg-8150.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "沙之守护 瑞兹 冥界守护神",
+                    "QB": 20,
+                    "WeChat": 19.4,
+                    "images": "images/2-13014-9.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "符文法师 瑞兹",
+                    "QB": 10,
+                    "WeChat": 9.7,
+                    "images": "images/20160721_2263_4373.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "源计划：净化 薇恩",
+                    "QB": 99,
+                    "WeChat": 96.03,
+                    "images": "images/2-67011-9.jpg"
+                }
+            ]
+        }
+    ],
+    "LOL": [
+        {
+            "title": "left",
+            "images": "images/index_lol.jpg"
+        },
+        {
+            "title": "main",
+            "top": [
+                {
+                    "id": 1,
+                    "name": "沙之守护 雷恩加尔",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-107023-9.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "沙之守护 迦娜",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-40020-9.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "沙之守护 瑞兹",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-13013-9.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "沙之守护 雷喵喵尔",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-107015-undefined.jpg"
+                }
+            ],
+            "bottom": [
+                {
+                    "id": 1,
+                    "name": "沙之守护 瑞兹 炫彩礼包",
+                    "QB": 164.2,
+                    "WeChat": 159.27,
+                    "images": "images/pkg-21766.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "未来战士 锐雯",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-92018-9.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "未来战士 崔斯特",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-4011-9.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "未来战士 慎",
+                    "QB": 79,
+                    "WeChat": 76.63,
+                    "images": "images/2-98015-9.jpg"
+                }
+            ]
+        },
+        {
+            "title": "right",
+            "child": [
+                {
+                    "id": 1,
+                    "name": "假面女皇 伊芙琳",
+                    "QB": 23,
+                    "WeChat": 22.31,
+                    "images": "images/2-28002-9.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "宗师级钓鱼训练师 贾克斯",
+                    "QB": 10,
+                    "WeChat": 9.7,
+                    "images": "images/2-24003-9.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "西部牛仔 亚索",
+                    "QB": 34.5,
+                    "WeChat": 33.46,
+                    "images": "images/2-157001-9.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "灵魂守卫 乌迪尔",
+                    "QB": 199,
+                    "WeChat": 193.03,
+                    "images": "images/package_439bc5f1abf3144f8eb40151bd4460f3.png"
+                },
+                {
+                    "id": 5,
+                    "name": "黑夜使者 亚索",
+                    "QB": 99,
+                    "WeChat": 96.03,
+                    "images": "images/2-157009-9.jpg"
+                }
+            ]
+        }
+    ],
+    "banner": [
+        {
+            "title": "轮播图",
+            "child": [
+                {
+                    "text": "穿越火线春节派对",
+                    "images": "images/20200115170249_971137.jpg"
+                },
+                {
+                    "text": "cf每日一抽",
+                    "images": "images/20200206122139_660248.jpg"
+                },
+                {
+                    "text": "机神贺岁",
+                    "images": "images/20200117120347_967501.jpg"
+                },
+                {
+                    "text": "CF春节轮回",
+                    "images": "images/20200120120914_664535.jpg"
+                },
+                {
+                    "text": "剑灵南海CP周边",
+                    "images": "images/20200116175141_549484.jpg"
+                },
+                {
+                    "text": "穿越火线春节派对",
+                    "images": "images/20200115170249_971137.jpg"
+                }
+            ]
+        }
+    ]
+}

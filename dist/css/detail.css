@@ -1,0 +1,621 @@
+@charset "UTF-8";
+body {
+  background-color: #f3f4f6; }
+
+/*头部*/
+.headbox {
+  width: 100%;
+  background-color: #f9f9f9; }
+
+/*头部导航*/
+.headbox .head {
+  width: 1190px;
+  height: 30px;
+  margin: 0 auto;
+  background-color: #f9f9f9; }
+
+.headbox .head .left {
+  height: 30px;
+  width: 120px;
+  float: left;
+  font-size: 12px; }
+
+.headbox .head .left a {
+  display: inline-block;
+  color: #000000;
+  height: 30px;
+  line-height: 30px; }
+
+.headbox .head a:hover {
+  text-decoration: underline;
+  color: red; }
+
+.headbox .head .left .first {
+  display: inline-block;
+  width: 50px;
+  height: 30px; }
+
+.headbox .head .left .first i {
+  display: inline-block;
+  width: 11px;
+  height: 16px;
+  margin-right: 3px;
+  position: relative;
+  top: 3px;
+  background: url("../images/icon.png") no-repeat; }
+
+.headbox .head .left span {
+  display: inline-block;
+  height: 30px;
+  color: #e7e9ed;
+  line-height: 30px;
+  margin: 0 10px; }
+
+.headbox .head .right {
+  width: 500px;
+  float: right;
+  height: 30px;
+  font-size: 12px; }
+
+.headbox .head .right div {
+  float: right;
+  height: 30px;
+  font-size: 12px; }
+
+.headbox .head .right div a:hover {
+  text-decoration: underline;
+  color: red; }
+
+.headbox .head .right .game a {
+  display: inline-block;
+  width: 72px;
+  height: 21px;
+  padding-left: 8px;
+  margin-top: 5px;
+  line-height: 21px;
+  background: url("../images/icon.png") no-repeat;
+  background-position: -20px -334px; }
+
+.headbox .head .right div a {
+  display: inline-block;
+  color: #000000;
+  height: 30px;
+  line-height: 30px; }
+
+.headbox .head .right span {
+  display: inline-block;
+  height: 30px;
+  color: #e7e9ed;
+  line-height: 30px;
+  margin: 0 10px; }
+
+.menubox {
+  width: 100%;
+  height: 255px;
+  background-size: auto 201px; }
+  .menubox .menu {
+    width: 1190px;
+    height: 255px;
+    margin: auto;
+    background: url(../images/bg-head.jpg) no-repeat top center; }
+    .menubox .menu .search {
+      width: 1190px;
+      height: 125px; }
+      .menubox .menu .search .logobox {
+        float: left;
+        margin-top: 37px;
+        width: 280px;
+        height: 52px;
+        background: url(../images/navico.png);
+        background-position: -670px -5px; }
+      .menubox .menu .search .searchbox {
+        float: left;
+        margin: 39px 65px 0 100px;
+        width: 522px;
+        height: 51px;
+        background: url(../images/navico.png);
+        background-position: -999px 0;
+        position: relative; }
+        .menubox .menu .search .searchbox input {
+          float: left;
+          margin: 1px 0 0 6px;
+          width: 450px;
+          padding: 14px 10px 15px 10px;
+          height: 18px;
+          line-height: 18px;
+          border: 0;
+          color: #9f9f9f;
+          font-size: 14px;
+          background: none; }
+        .menubox .menu .search .searchbox .search_btn {
+          background: url(../images/navico.png);
+          position: absolute;
+          top: 1px;
+          right: 0;
+          width: 49px;
+          height: 46px;
+          background-position: -1558px 0;
+          cursor: pointer;
+          outline: none; }
+      .menubox .menu .search .logogame {
+        float: left;
+        margin: 37px 0 0;
+        width: 223px;
+        height: 59px;
+        background-color: green;
+        background: url(../images/navico.png);
+        background-position: -437px -5px; }
+    .menubox .menu .nav {
+      width: 1190px;
+      height: 76px; }
+      .menubox .menu .nav ul li {
+        width: 134px;
+        height: 76px;
+        float: left;
+        text-align: center;
+        font-size: 18px;
+        line-height: 76px; }
+        .menubox .menu .nav ul li a {
+          display: block;
+          width: 134px;
+          height: 76px;
+          color: #9f9f9f; }
+          .menubox .menu .nav ul li a:hover {
+            color: #ff5900; }
+      .menubox .menu .nav .nav_cart {
+        width: 192px;
+        height: 76px;
+        line-height: 76px;
+        float: right;
+        text-align: center;
+        font-size: 18px;
+        position: relative; }
+        .menubox .menu .nav .nav_cart .btn-cart {
+          display: block;
+          width: 192px;
+          color: #ff5900; }
+          .menubox .menu .nav .nav_cart .btn-cart span {
+            position: absolute;
+            top: 0;
+            right: 15px;
+            width: 60px;
+            font-size: 18px;
+            display: block; }
+          .menubox .menu .nav .nav_cart .btn-cart i {
+            position: absolute;
+            display: block;
+            width: 28px;
+            height: 24px;
+            top: 26px;
+            left: 36px;
+            background: url(../images/navico.png) no-repeat;
+            background-position: -237px -5px; }
+    .menubox .menu .subnav {
+      width: 1190px;
+      height: 54px;
+      background-color: #e6e6e8; }
+      .menubox .menu .subnav ul li {
+        width: 118px;
+        height: 54px;
+        float: left;
+        text-align: center;
+        font-size: 14px;
+        line-height: 52px; }
+        .menubox .menu .subnav ul li:nth-child(1) {
+          width: 152px; }
+        .menubox .menu .subnav ul li a {
+          display: block;
+          width: 118px;
+          height: 54px;
+          color: black; }
+          .menubox .menu .subnav ul li a:hover {
+            color: #36ab87; }
+
+/*内容2*/
+.mainbox {
+  width: 100%;
+  height: auto; }
+  .mainbox .location {
+    margin: 24px auto 8px;
+    font-size: 12px;
+    width: 1190px;
+    color: #606060;
+    height: 18px;
+    position: relative;
+    zoom: 1;
+    cursor: pointer; }
+    .mainbox .location a {
+      color: #3a3f4a; }
+  .mainbox .main {
+    height: auto;
+    width: 1190px;
+    margin: auto;
+    overflow: hidden; }
+    .mainbox .main .left {
+      width: 228px;
+      height: auto;
+      float: left; }
+      .mainbox .main .left h3 {
+        width: 197px;
+        height: 47px;
+        margin-left: 18px;
+        font-size: 16px;
+        line-height: 54px;
+        text-indent: 6px;
+        position: relative;
+        color: #555;
+        font-weight: bold;
+        border-bottom: 2px solid #f3f4f6; }
+        .mainbox .main .left h3 span {
+          position: absolute;
+          top: 47px;
+          left: 0;
+          width: 80px;
+          height: 2px;
+          background: #36ab87;
+          display: block; }
+      .mainbox .main .left .left_1 {
+        width: 228px;
+        height: 59px;
+        background: #fafbfc; }
+      .mainbox .main .left .left_2 {
+        margin-top: 10px;
+        width: 228px;
+        height: 59px;
+        background: #fafbfc; }
+      .mainbox .main .left .left_3 {
+        margin-top: 10px;
+        width: 228px;
+        height: 890px;
+        background: #fafbfc; }
+        .mainbox .main .left .left_3 ul {
+          margin-left: 20px;
+          height: auto;
+          width: 192px;
+          margin-top: 15px; }
+          .mainbox .main .left .left_3 ul li {
+            width: 192px;
+            height: 262px;
+            border-bottom: 1px dashed #e7e7e7; }
+            .mainbox .main .left .left_3 ul li img {
+              margin-top: 14px;
+              display: block;
+              width: 192px;
+              height: 184px; }
+            .mainbox .main .left .left_3 ul li p {
+              color: #535353;
+              margin-top: 10px;
+              font-size: 14px; }
+              .mainbox .main .left .left_3 ul li p:nth-child(3) {
+                margin-top: 8px;
+                color: #ff5900;
+                font-weight: bold; }
+        .mainbox .main .left .left_3 .morebox {
+          margin-top: -20px;
+          width: 100%;
+          height: 30px;
+          position: relative; }
+          .mainbox .main .left .left_3 .morebox a {
+            display: block;
+            float: right;
+            position: relative;
+            top: 5px;
+            left: -15px;
+            font-size: 12px;
+            color: #3a3f4a; }
+      .mainbox .main .left .left_4 {
+        margin-top: 10px;
+        width: 228px;
+        height: auto;
+        min-height: 59px;
+        background: #fafbfc; }
+    .mainbox .main .right {
+      width: 952px;
+      height: auto;
+      float: right;
+      padding: 30px 0 14px 0;
+      background-color: #fafbfc; }
+      .mainbox .main .right .top {
+        width: 888px;
+        height: 360px;
+        margin-left: 58px;
+        position: relative; }
+        .mainbox .main .right .top .goods_img {
+          width: 260px;
+          height: 154px;
+          margin-top: 35px;
+          float: left;
+          position: relative; }
+          .mainbox .main .right .top .goods_img .mask {
+            width: 100px;
+            height: 100px;
+            z-index: 99999;
+            background: skyblue;
+            opacity: 0.5;
+            display: none;
+            position: absolute;
+            left: 0;
+            top: 0; }
+          .mainbox .main .right .top .goods_img img {
+            width: 260px;
+            height: 154px;
+            position: absolute; }
+          .mainbox .main .right .top .goods_img a {
+            position: absolute;
+            top: 155px;
+            margin-top: 5px;
+            margin-left: 65px;
+            height: 25px;
+            display: inline-block;
+            line-height: 27px;
+            width: 68px;
+            color: #9f9f9f;
+            text-indent: 19px;
+            font-size: 12px;
+            background: url(../images/comico.png) no-repeat;
+            background-position: -5px -521px; }
+          .mainbox .main .right .top .goods_img i {
+            display: inline-block;
+            width: 16px;
+            height: 15px;
+            position: absolute;
+            top: 155px;
+            right: 0px;
+            background: url(../images/comico.png);
+            background-position: -5px -969px; }
+        .mainbox .main .right .top .goods_buy {
+          width: 456px;
+          height: auto;
+          margin-left: 23px;
+          float: left; }
+          .mainbox .main .right .top .goods_buy h2 {
+            height: 30px;
+            margin-top: 10px;
+            font-size: 18px;
+            text-indent: 15px;
+            font-weight: bold;
+            color: #2e2e2e; }
+          .mainbox .main .right .top .goods_buy .price {
+            margin-top: 6px;
+            width: 456px;
+            height: 76px;
+            background: url(../images/comico.png);
+            background-position: -5px -143px;
+            position: relative; }
+            .mainbox .main .right .top .goods_buy .price dl {
+              height: 30px;
+              display: block; }
+              .mainbox .main .right .top .goods_buy .price dl dt {
+                height: 20px;
+                float: left;
+                line-height: 20px;
+                display: block;
+                font-size: 14px;
+                color: #606060;
+                text-indent: 15px;
+                padding-top: 10px; }
+              .mainbox .main .right .top .goods_buy .price dl dd {
+                height: 20px;
+                float: left;
+                line-height: 20px;
+                display: block;
+                font-size: 14px;
+                color: #606060;
+                padding-top: 10px; }
+            .mainbox .main .right .top .goods_buy .price .WeChat span {
+              font-size: 24px;
+              font-weight: 800;
+              color: #ff5900; }
+          .mainbox .main .right .top .goods_buy .limit {
+            height: 30px;
+            padding-top: 18px; }
+            .mainbox .main .right .top .goods_buy .limit dl {
+              height: 30px;
+              display: block; }
+              .mainbox .main .right .top .goods_buy .limit dl dt {
+                height: 20px;
+                float: left;
+                line-height: 20px;
+                display: block;
+                font-size: 14px;
+                color: #606060;
+                text-indent: 15px;
+                padding-top: 10px; }
+              .mainbox .main .right .top .goods_buy .limit dl dd {
+                height: 20px;
+                float: left;
+                line-height: 20px;
+                display: block;
+                font-size: 14px;
+                color: #606060;
+                padding-top: 10px; }
+          .mainbox .main .right .top .goods_buy .goods_btn {
+            height: 42px; }
+            .mainbox .main .right .top .goods_buy .goods_btn input {
+              margin: 10px 9px 0 15px;
+              display: block;
+              width: 142px;
+              height: 42px;
+              line-height: 42px;
+              text-align: center;
+              font-size: 18px;
+              color: #fff;
+              border: 0;
+              outline: none; }
+            .mainbox .main .right .top .goods_buy .goods_btn .btn_addcart {
+              float: left;
+              background: #ff5900; }
+            .mainbox .main .right .top .goods_buy .goods_btn .btn_grant {
+              float: left;
+              background: #259afe; }
+        .mainbox .main .right .top .magnifying {
+          width: 300px;
+          height: 300px;
+          background: red;
+          position: relative;
+          left: 285px;
+          top: -250px;
+          overflow: hidden;
+          display: none; }
+          .mainbox .main .right .top .magnifying img {
+            width: 780px;
+            height: 462px;
+            position: absolute; }
+      .mainbox .main .right .bottom {
+        width: 910px;
+        height: 97px;
+        margin: 36px 20px 20px;
+        background: #fafbfc;
+        height: auto;
+        border: 1px solid #ddd; }
+        .mainbox .main .right .bottom .particular {
+          width: 910px;
+          height: auto;
+          margin-bottom: 5px;
+          width: 84%;
+          padding: 30px 8% 0;
+          font-size: 14px;
+          line-height: 22px; }
+        .mainbox .main .right .bottom .info {
+          height: 20px;
+          background: url(../images/comico.png) no-repeat;
+          margin: 17px 0 0 75px;
+          width: 705px;
+          background-position: -5px -229px;
+          position: relative;
+          background-color: #fff; }
+          .mainbox .main .right .bottom .info a:nth-child(1) {
+            position: relative;
+            left: -65px;
+            top: -17px;
+            font-weight: bold;
+            color: #222;
+            font-size: 14px; }
+          .mainbox .main .right .bottom .info a:nth-child(2) {
+            position: relative;
+            left: 655px;
+            top: -15px;
+            font-size: 14px;
+            color: #9f9f9f; }
+          .mainbox .main .right .bottom .info i {
+            width: 45px;
+            height: 28px;
+            position: relative;
+            left: 655px;
+            top: -7px;
+            display: inline-block;
+            background: url(../images/comico.png) no-repeat;
+            background-position: -5px -347px; }
+
+/*底部*/
+.footerbox {
+  width: 100%;
+  height: 356px;
+  background: #3b3f4a; }
+
+/*底部导航*/
+.footerbox .footer_1 {
+  width: 1252px;
+  height: 150px;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 25px 0 33px 28px;
+  background: #3b3f4a;
+  border-bottom: 1px solid #444853; }
+
+.footerbox .footer_1 .footer_1_left ul {
+  width: 226px;
+  float: left;
+  border-right: 1px solid #444853;
+  height: 150px;
+  color: #acb1bb;
+  font-size: 12px; }
+
+.footerbox .footer_1 .footer_1_left ul li:nth-child(1) {
+  width: 226px;
+  height: 32px;
+  font-size: 16px;
+  margin: 0;
+  line-height: 32px;
+  padding-left: 24px; }
+
+.footerbox .footer_1 .footer_1_left ul li {
+  width: 100px;
+  height: 24px;
+  line-height: 24px;
+  margin-left: 65px; }
+
+.footerbox .footer_1 .footer_1_left ul li i {
+  width: 32px;
+  height: 32px;
+  float: left;
+  background: url("../images/icon.png"); }
+
+.footerbox .footer_1 .footer_1_left ul li a {
+  color: #acb1bb; }
+
+.footerbox .footer_1 .footer_1_left ul li span {
+  float: left;
+  margin-left: 10px; }
+
+.footerbox .footer_1 .footer_1_left ul:nth-child(1) li i {
+  background-position: 0 -136px; }
+
+.footerbox .footer_1 .footer_1_left ul:nth-child(2) li i {
+  background-position: -32px -136px; }
+
+.footerbox .footer_1 .footer_1_left ul:nth-child(3) li i {
+  background-position: -63px -136px; }
+
+.footerbox .footer_1 .footer_1_left ul:nth-child(4) li i {
+  background-position: -95px -136px; }
+
+.footerbox .footer_1 .footer_1_right {
+  width: 298px;
+  float: left;
+  height: 150px; }
+
+.footerbox .footer_1 .footer_1_right ul {
+  margin-left: 11px; }
+
+.footerbox .footer_1 .footer_1_right ul li {
+  width: 100px;
+  height: 136px;
+  float: left;
+  margin-left: 40px; }
+
+.footerbox .footer_1 .footer_1_right ul li img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 18px; }
+
+.footerbox .footer_1 .footer_1_right ul li p {
+  text-align: center;
+  color: #a4abb4;
+  line-height: 18px;
+  position: relative;
+  top: -5px; }
+
+/*底部链接 */
+.footerbox .footer_2 {
+  width: 1280px;
+  height: 57px;
+  margin: 0 auto;
+  background: #3b3f4a;
+  padding: 30px 0 60px 0;
+  text-align: center;
+  line-height: 19px;
+  font-size: 12px;
+  color: #81858f; }
+
+.footerbox .footer_2 p a {
+  color: #81858f; }
+
+.headbox a:hover {
+  text-decoration: underline; }
+
+.contentbox a:hover {
+  text-decoration: underline; }
+
+.footerbox a:hover {
+  text-decoration: underline; }
